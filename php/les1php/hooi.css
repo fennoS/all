@@ -1,0 +1,25 @@
+*{margin: 0; padding: 0;}
+
+body.goedemorgen{
+	background-image: url(morning.png);
+	background-repeat: no-repeat;
+}
+
+body.goedemiddag{
+	background-image: url(afternoon.png);
+	background-repeat: no-repeat;
+}
+
+body.goedeavond{
+	background-image: url(afternoon.png);
+	background-repeat: no-repeat;
+}
+
+body.goedenacht{
+	background-image: url(night.png);
+	background-repeat: no-repeat;
+}
+
+
+	
+	
